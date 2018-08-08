@@ -12,4 +12,4 @@ Make sure that your custom search can search whole web
 5.Install requirements.txt by typing into terminal : pip install -r requirements.txt
 
 6.You need to install tesseract OCR from this site : https://github.com/tesseract-ocr/tesseract/wiki/Downloads
-and add ith to your PATH
+and add it to your PATH
