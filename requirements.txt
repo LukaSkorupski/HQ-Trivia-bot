@@ -1,0 +1,4 @@
+pillow
+pytesseract
+requests
+urllib3
