@@ -5,3 +5,6 @@ Make sure that your custom search can search whole web
 
 
 Dont use on live game because it violating HQ trivia tos!
+
+
+Paste screenshoots folder into D:\
